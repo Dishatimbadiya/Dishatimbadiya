@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishatimbadiya&label=Profile%20views&color=0e75b6&style=flat" alt="dishatimbadiya" /> </p>
 
-- 🎓 B.Tech in Computer Engineering at Dharmsinh Desai University
-- 💼 Former Software Engineering Intern at **Amazon**
-- 🏆 **Amazon Future Engineer** Scholar | **BNY Mellon Code Divas'23** Finalist
-- 🚀 Passionate about building innovative solutions and solving complex problems
-- 📫 How to reach me: **dishatimbadiya055@gmail.com**
+-  B.Tech in Computer Engineering at Dharmsinh Desai University
+-  Former SE Intern at **Amazon**
+-  **Amazon Future Engineer** Scholar | **BNY Mellon Code Divas'23** Finalist
+-  Passionate about building innovative solutions and solving complex problems
+-  How to reach me: **dishatimbadiya055@gmail.com**
 
 <h3 align="left">Competitive Programming Profiles:</h3>
 <p align="left">
