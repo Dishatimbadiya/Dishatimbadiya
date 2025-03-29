@@ -1,28 +1,167 @@
-<h1 align="center">Hi 👋, I'm disha timbadiya</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Disha Timbadiya</h1>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishatimbadiya&label=Profile%20views&color=0e75b6&style=flat" alt="dishatimbadiya" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🎓 B.Tech in Computer Engineering at Dharmsinh Desai University
+- 💼 Former Software Engineering Intern at **Amazon**
+- 🏆 **Amazon Future Engineer** Scholar | **BNY Mellon Code Divas'23** Finalist
+- 🚀 Passionate about building innovative solutions and solving complex problems
+- 📫 How to reach me: **dishatimbadiya055@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://disha-timbadiya.onrender.com/](https://disha-timbadiya.onrender.com/)
-
-- 📫 How to reach me **dishatimbadiya055@gmail.com**
+<h3 align="left">Competitive Programming Profiles:</h3>
+<p align="left">
+  <a href="https://leetcode.com/dishatimbadiya055/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-1683_max_(Top_15%25)-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/dishatimbmosc" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-Top_1%25-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG"/>
+  </a>
+  <a href="https://codeforces.com/profile/dishatimbadiya455" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-1008_max-blue?style=for-the-badge&logo=codeforces" alt="Codeforces"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/disha-timbadiya-950553248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha-timbadiya-950553248" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dishatimbadiya455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dishatimbadiya455" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dishatimbadiya055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dishatimbadiya055" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dishatimbmosc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dishatimbmosc" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dishatimbadiya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha-timbadiya" height="30" width="40"/>
+  </a>
+  <a href="https://x.com/DishaTimbadiya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DishaTimbadiya" height="30" width="40"/>
+  </a>
+  <a href="mailto:dishatimbadiya055@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h3 align="left">Technical Skills:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishatimbadiya&show_icons=true&locale=en&layout=compact" alt="dishatimbadiya" /></p>
+<h4>Languages</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishatimbadiya&show_icons=true&locale=en" alt="dishatimbadiya" /></p>
+<h4>Frontend</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishatimbadiya&" alt="dishatimbadiya" /></p>
+<h4>Backend</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
+<h4>Databases</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<h4>Tools & Platforms</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+
+## 👨‍💻Featured Projects:
+
+### 🌱 Climate-Smart Agriculture Platform
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Dishatimbadiya/Climate-Smart-Agriculture-Platform)
+
+A platform empowering farmers with real-time weather updates and crop predictions based on soil conditions and climate data.
+
+**Tech Stack:** React, Node.js, MongoDB, TensorFlow, Weather API
+
+---
+
+### ⚖️ Load Balancer Visualization
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Dishatimbadiya/LoadBalancerVisulization)
+[![Demo](https://img.shields.io/badge/Live_Demo-View-blue?style=for-the-badge)](https://lnkd.in/dcCP7Ghw)
+
+Interactive visualization of load balancing algorithms with real-time simulation.
+
+**Tech Stack:** Next.js, Java, Spring Boot, Spring MVC
+
+---
+
+### ✋ Gesture Talk - Sign Language Recognition
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Dishatimbadiya/GestureTalk)
+
+Real-time sign language recognition platform converting hand gestures to text.
+
+**Tech Stack:** Python, Flask, TensorFlow/Keras, MediaPipe, OpenCV
+
+---
+
+### 🔗 LinkedIn Filtered - Connection Manager
+[![Edge Store](https://img.shields.io/badge/Edge_Store-View_Extension-blue?style=for-the-badge&logo=microsoft-edge)](https://lnkd.in/gUpfg25g)
+
+Edge extension for managing LinkedIn connection requests with keyword filtering.
+
+**Tech Stack:** JavaScript, Edge Extension API, HTML/CSS
+
+---
+
+### 🏫 Student Placement Management System
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Dishatimbadiya/Student_Placement_Management_System)
+
+Comprehensive system to manage student placements and company interactions.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
+
+---
+
+### 📊 Algorithm Repository API
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Dishatimbadiya/Algo_Repo)
+
+RESTful API for storing and managing algorithms with CRUD operations.
+
+**Tech Stack:** Java, Spring Boot, Spring MVC, Postman
+
+---
+
+### 🛒 SmartShop E-Commerce Platform
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Dishatimbadiya/Ecommerce_website)
+
+E-commerce platform with product listings and order management.
+
+**Tech Stack:** Django, HTML, CSS, JavaScript, Python
+
+---
+
+### ❤️ Organ Donation Awareness Website
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Dishatimbadiya/Organ_Donation)
+
+Informative website to raise awareness about organ donation.
+
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dishatimbadiya&show_icons=true&theme=radical&hide_border=true" alt="Disha's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishatimbadiya&theme=radical&hide_border=true" alt="Disha's streak stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishatimbadiya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
