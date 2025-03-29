@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/disha-timbadiya/home](https://sites.google.com/view/disha-timbadiya/home)
+- 👨‍💻 All of my projects are available at [https://disha-timbadiya.onrender.com/](https://disha-timbadiya.onrender.com/)
 
 - 📫 How to reach me **dishatimbadiya055@gmail.com**
 
